@@ -1,0 +1,1 @@
+# singleton-java-logger-class
